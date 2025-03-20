@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<title>Coding Student(Self-taught)</title>
-<p>My names Ryan and coding fascinates me so on my off time I learn as much as I can about coding so that hopefully I can change carears to something I love.</p>
+Coding Student(Self-taught)
+  My names Ryan and coding fascinates me so on my off time I learn as much as I can about coding so that hopefully I can change carears to something I love.
